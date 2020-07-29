@@ -9,7 +9,7 @@ public class Customer {
     }
 public void mothd(){
             String a="1";
-      String a = "aaa";
+      String aaa = "aaa";
 
 }
 }
